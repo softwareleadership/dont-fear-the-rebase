@@ -1,1 +1,1 @@
-# Don't Fear the Rebase
+# Don't Fear the Rebase!
